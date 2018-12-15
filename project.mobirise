@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.7",
     "siteFonts": [],
-    "uniqCompNum": 16,
+    "uniqCompNum": 17,
     "versionPublish": "4.8.7",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -242,49 +242,43 @@
           }
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "36px",
-              "color": "#ffffff"
-            },
-            ".lead P": {
-              "color": "#ffffff"
-            }
-          },
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/timothy-dykes-785358-unsplash-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#a07e49",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5"
           },
           "title": "<span style=\"font-weight: normal;\"><i>Brief History</i></span>",
-          "text": "<p>After graduating from massage school, I have had a massage about once/week. I’ve been to massage therapy businesses and worked with self employed therapists as well. The biggest insight I’ve had is that the best massages have been when the therapist has a mindful, kind and healing touch. The pressure could be light to heavy to anywhere in between. It was the intention behind the touch and the human connection that made the difference for me.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "text": "After graduating from massage school, I have had a massage about once/week. I’ve been to massage therapy businesses and worked with self employed therapists as well. The biggest insight I’ve had is that the best massages have been when the therapist has a mindful, kind and healing touch. The pressure could be light to heavy to anywhere in between. It was the intention behind the touch and the human connection that made the difference for me.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Tema"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-c"
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px"
+            },
+            ".mbr-section-lead": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "header1-g"
         },
         {
           "_styles": {

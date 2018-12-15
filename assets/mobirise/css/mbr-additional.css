@@ -759,19 +759,12 @@ h6,
 #msg-box5-7 P {
   color: #666666;
 }
-#msg-box8-c .mbr-section-title,
-#msg-box8-c p {
-  color: #fff;
-}
-#msg-box8-c .mbr-section-title {
+#header1-g .mbr-section-title {
   font-family: 'Lora', serif;
-}
-#msg-box8-c .mbr-section-title SPAN {
   font-size: 36px;
-  color: #ffffff;
 }
-#msg-box8-c .lead P {
-  color: #ffffff;
+#header1-g .mbr-section-lead {
+  font-size: 20px;
 }
 #header3-8 .mbr-section-title,
 #header3-8 .mbr-section-subtitle {
