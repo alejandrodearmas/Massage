@@ -15,6 +15,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -758,6 +759,16 @@ h6,
 #msg-box5-7 P {
   color: #666666;
 }
+#msg-box8-c .mbr-section-title,
+#msg-box8-c p {
+  color: #fff;
+}
+#msg-box8-c .mbr-section-title {
+  font-family: 'Lora', serif;
+}
+#msg-box8-c .mbr-section-title SPAN {
+  font-size: 36px;
+}
 #header3-8 .mbr-section-title,
 #header3-8 .mbr-section-subtitle {
   text-align: center;
@@ -770,11 +781,7 @@ h6,
   color: #666666;
 }
 #header3-8 .mbr-section-title SPAN {
-  font-size: 36px;
-  color: #666666;
-}
-#content1-a P {
-  text-align: center;
+  font-size: 25px;
   color: #666666;
 }
 #header1-9 .mbr-section-title {
@@ -811,19 +818,15 @@ h6,
 #extTestimonials1-c .mbr-section-title I {
   font-size: 36px;
 }
-#content5-7 .mbr-section-title,
-#content5-7 p {
-  color: #fff;
-}
-#content5-7 P {
-  text-align: center;
-}
-#content5-7 .mbr-section-title {
-  text-align: center;
+#msg-box5-b H3 {
   font-family: 'Lora', serif;
 }
-#content5-7 .mbr-section-title I {
+#msg-box5-b SPAN {
   font-size: 36px;
+  color: #252525;
+}
+#msg-box5-b P {
+  color: #252525;
 }
 #extFooter1-i .mbr-section-title {
   font-family: 'Lora', serif;
